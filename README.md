@@ -32,7 +32,7 @@
 
 ### Panadas library is used
 
-### Zipfile os csv modules are used
+### Zipfile os csv modules are used\n
 
 ## Pandas DF
 
@@ -40,4 +40,4 @@
 
 ### Array method is used to parse data
 
-### Split method is used to parse data
+### Split method is used to parse data\n
