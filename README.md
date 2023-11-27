@@ -33,3 +33,11 @@
 ### Panadas library is used
 
 ### Zipfile os csv modules are used
+
+## Pandas DF
+
+### Pandas library is used to create df
+
+### Array method is used to parse data
+
+### Split method is used to parse data
