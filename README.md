@@ -19,3 +19,11 @@
 ### Python math is used for pi
 
 ### Basic math operations is used to calculate rlc
+
+## The Movie Data Base
+
+### Fetching data from https://api.themoviedb.org/3/
+
+### Request module is used
+
+### With JSON module is used to convert the data in Python data type
