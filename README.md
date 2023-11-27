@@ -27,3 +27,9 @@
 ### Request module is used
 
 ### With JSON module is used to convert the data in Python data type
+
+## Read and Write files
+
+### Panadas library is used
+
+### Zipfile os csv modules are used
