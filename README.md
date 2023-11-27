@@ -1,6 +1,6 @@
 # PYTHON STUDIES
 
-## Money Rate Calculate
+## money_rate.py
 
 ### https://app.exchangerate-api.com/ is used for api
 
@@ -8,19 +8,19 @@
 
 ### json.loads is used to convert data
 
-## User App
+## user_app.py
 
 ### While loop is used to organize code
 
 ### Dict and List is used to collect data and keep them
 
-## RLC Calculator
+## rlc_calculator.py
 
 ### Python math is used for pi
 
 ### Basic math operations is used to calculate rlc
 
-## The Movie Data Base
+## tmdb_movie.py
 
 ### Fetching data from https://api.themoviedb.org/3/
 
@@ -28,7 +28,7 @@
 
 ### With JSON module is used to convert the data in Python data type
 
-## Read and Write files
+## read_write.py
 
 ### Panadas library is used
 
