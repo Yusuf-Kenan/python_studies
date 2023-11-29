@@ -41,3 +41,25 @@
 ### Array method is used to parse data
 
 ### Split method is used to parse data
+
+## data_scrap.py
+
+### BeautifulSoup library use sample
+
+### request use sample
+
+### pandas use sample
+
+### csv use sample
+
+## automation.py
+
+### selenium use sample
+
+### Firefox browser use sample
+
+### Keys use sample
+
+### time use sample
+
+### find_element use sample (only with xpath)
