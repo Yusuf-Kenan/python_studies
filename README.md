@@ -6,9 +6,11 @@
 
 ### time use
 
-### undetected_chromedriver use
-
 ### Dict use
+
+### undetected_chromedriver use as uc
+
+### to use uc Install Certificates.command need to be run
 
 ## instagram bot
 
