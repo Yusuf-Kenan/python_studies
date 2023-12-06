@@ -1,5 +1,23 @@
 # PYTHON STUDIES
 
+## youtube bot
+
+### Selenium use
+
+### time use
+
+### undetected_chromedriver use
+
+### Dict use
+
+## instagram bot
+
+### Selenium library use
+
+### Dict use
+
+### import own module
+
 ## money_rate.py
 
 ### https://app.exchangerate-api.com/ is used for api
